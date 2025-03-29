@@ -9,6 +9,10 @@
 > This tool is for educational purposes only. Even if it violates TikTok's Terms of Service, the creator of this code is not responsible for any misuse or consequences. Use this tool at your own risk.
 
 ---
+## 🔥 Purpose of This Program 🔥
+  * This program is designed to send likes to videos of specific users, with the expectation that they may reciprocate the favor. However, whether they return the likes or not, here is a link to another program that can remove all the likes you have given: (Soon)
+
+---
 
 ## Features
 
@@ -29,9 +33,6 @@
 
 - **Batch Video Processing:**  
   Processes multiple video URLs from a `Videos.txt` file (one URL per line).
-
-- **Unlike All Given Likes:**  
-  If the users you interacted with did not reciprocate the likes, you can run a separate script (provided in another repository) to remove all likes given to them.
 
 - **Colored Terminal Output:**  
   Uses Colorama to provide organized, colorful terminal output for easy monitoring of the process.
