@@ -107,9 +107,9 @@ colorama
 1. Create a file named `Videos.txt` in the repository root with video URLs (one URL per line), for example:
 
    ```
-   https://www.tiktok.com/@akram.ahmedd/video/7482115173273160961
-   https://www.tiktok.com/@ojastories_35/video/7478095454954179848
-   https://www.tiktok.com/@moh2medzan2ty/video/7482782370681195794
+   https://www.tiktok.com/@user_name/video/user_id
+   https://www.tiktok.com/@user_name/video/user_id
+   https://www.tiktok.com/@user_name/video/user_id
    ```
 
 2. Run the script:
